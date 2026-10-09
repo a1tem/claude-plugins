@@ -1,0 +1,8 @@
+{
+  "name": "seoo-seo",
+  "version": "1.1.1",
+  "description": "20 SEO and content audit skills (SEOO skill pack), with site-audit-orchestrator as the router.",
+  "author": { "name": "SEOO Tools", "url": "https://www.seoo.tools" },
+  "homepage": "https://www.seoo.tools",
+  "license": "MIT"
+}

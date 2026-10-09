@@ -1,0 +1,12 @@
+{
+  "name": "a1tem-plugins",
+  "description": "a1tem's personal Claude Code plugins.",
+  "owner": { "name": "a1tem", "url": "https://github.com/a1tem" },
+  "plugins": [
+    {
+      "name": "seoo-seo",
+      "source": "./plugins/seoo-seo",
+      "description": "20 SEO and content audit skills (SEOO skill pack, MIT)."
+    }
+  ]
+}
